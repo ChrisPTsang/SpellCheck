@@ -1,0 +1,14 @@
+{
+  "name": "spellcheck",
+  "version": "1.0.0",
+  "description": "word generator piped to spellcheck",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Tsang",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "spellcheck": "wordGen.js"
+  }
+}
